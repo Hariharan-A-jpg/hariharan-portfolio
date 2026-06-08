@@ -51,7 +51,7 @@ const About = () => (
         <div className="relative flex justify-center">
           <div className="w-64 h-64 rounded-3xl overflow-hidden border border-white/10 shadow-2xl glow-indigo">
             <img
-              src="/src/assets/profile.jpg"
+              src="/profile.jpg"
               alt="Hariharan A"
               className="w-full h-full object-cover"
               onError={(e) => { e.target.src = 'https://ui-avatars.com/api/?name=Hariharan+A&size=320&background=4a5fc1&color=fff&bold=true' }}

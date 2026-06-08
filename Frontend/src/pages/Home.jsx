@@ -100,7 +100,7 @@ const Home = () => {
               <div className="absolute inset-[-32px] rounded-full border border-dashed border-[#5ebec4]/10 animate-spin-slow" style={{animationDirection:'reverse'}} />
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-gradient glow-indigo relative z-10 animate-float">
                 <img
-                  src="/src/assets/profile.jpg"
+                  src="/profile.jpg"
                   alt="Hariharan A"
                   className="w-full h-full object-cover"
                   onError={(e) => { e.target.src = 'https://ui-avatars.com/api/?name=Hariharan+A&size=320&background=4a5fc1&color=fff&bold=true' }}
