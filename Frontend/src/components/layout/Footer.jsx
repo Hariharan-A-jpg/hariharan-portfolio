@@ -16,7 +16,7 @@ const Footer = () => {
               </span>
             </Link>
             <p className="text-[#a0aecd] text-sm leading-relaxed">
-              MERN Stack Developer & AI/ML Enthusiast.<br />
+              FULL Stack Developer & AI/ML Enthusiast.<br />
               Building smart, scalable web solutions.
             </p>
           </div>

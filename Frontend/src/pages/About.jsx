@@ -71,7 +71,7 @@ const About = () => (
             About <span className="text-gradient">Me</span>
           </h1>
           <p className="text-[#a0aecd] text-lg leading-relaxed mb-4">
-            I'm a MERN Stack Developer Intern with hands-on experience at EduCentro Private Limited,
+            I'm a FULL Stack Developer Intern with hands-on experience at EduCentro Private Limited,
             where I built full-cycle web applications, assisted with AWS deployments, and maintained SDLC documentation.
           </p>
           <p className="text-[#a0aecd] text-lg leading-relaxed mb-8">

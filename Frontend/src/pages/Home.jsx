@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
-const roles = ['MERN Stack Developer', 'AI/ML Enthusiast', 'Problem Solver', 'CSE (AIML) Student']
+const roles = ['FULL Stack Developer', 'AI/ML Enthusiast', 'Problem Solver', 'CSE (AIML) Student']
 
 const stats = [
   { value: '116+', label: 'LeetCode Problems' },
